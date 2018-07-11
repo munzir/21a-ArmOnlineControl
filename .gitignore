@@ -1,0 +1,8 @@
+# Exclude build directories, since they are artifacts of compilation
+
+/build
+!/build/dataCur.txt
+!/build/dataDDotQ.txt
+!/build/dataDotQ.txt
+!/build/dataQ.txt
+!/build/dataTimeStamp.txt
